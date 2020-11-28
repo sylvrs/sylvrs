@@ -8,7 +8,7 @@ I have aspirations to work with the back-end through security, databases, or sys
 ---
 
 <h3 align="center">Aspirational Career Paths</h3>
-<p align="center">As I'd like to work with the back-end, these are a few occupations I could see myself wanting to pursue.</p>
+<p align="center">As I'd like to work with the back-end, these are a few occupations I could see myself wanting to pursue:</p>
 <br/>
 
 * Security Specialist 
@@ -20,7 +20,7 @@ I have aspirations to work with the back-end through security, databases, or sys
 
 <h3 align="center">Fluent Languages</h3>
 
-<p align="center">These are the languages that I find myself to be at an average or advanced level of usability.</p>
+<p align="center">These are the languages that I find myself to be at an average or advanced level of usability with.</p>
 
 * PHP
 * HTML/CSS
@@ -43,7 +43,7 @@ I have aspirations to work with the back-end through security, databases, or sys
 
 <h3 align="center">My Stats</h3>
 
-<p align="center">Below are a few stats from my Github profile. These reflect my activity and frequency of my programming.</p>
+<p align="center">Below are a few stats from my GitHub profile. These reflect my activity and frequency of my programming.</p>
 
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=sylvrs&line_height=20&hide_border=true&hide_title=true&count_private=true&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvrs&hide_border=true&hide_title=true)
