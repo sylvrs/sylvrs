@@ -1,5 +1,4 @@
 <h1 align="center">My Profile</h1>
-<br/>
 <h3 align="center">About Me</h3>
 <p align="center">
 My name is Matthew, and I'm a student, currently majoring in Computer Science.
