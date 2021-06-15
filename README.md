@@ -45,5 +45,5 @@ I have aspirations to work with the back-end through security, databases, or sys
 
 <p align="center">Below are a few stats from my GitHub profile. These reflect my activity and frequency of my programming.</p>
 
-![Matt's github stats](https://github-readme-stats.vercel.app/api?username=sylvrs&line_height=20&hide_border=true&hide_title=true&count_private=true&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvrs&hide_border=true&hide_title=true)
+![Matt's github stats](https://github-readme-stats.vercel.app/api?username=sylvrs&line_height=20&hide_border=true&hide_title=true&count_private=true&show_icons=true&theme=buefy&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvrs&hide_border=true&hide_title=true&count_private=true)
